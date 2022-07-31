@@ -1,4 +1,4 @@
-import {Item} from '../models/item.js'
+import {Item} from '../models/Item.js'
 
 const getItems = async (req, res, next) => {
 	try {
